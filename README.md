@@ -1,2 +1,2 @@
 # monitoring-alerting-stack
-building a system to track server health, detect anomalies, and generate instant alerts.
+This project builds on my previous Web Server Hardening & Detection project, adding real-time monitoring, visualization, and automated alerting.
