@@ -27,10 +27,12 @@ Alertmanager
 
 See setup/ for detailed installation and configuration steps for Prometheus, Node Exporter, Grafana, and Alertmanager.
 
-## Simulated Alerts
-
-See tests/ for steps to simulate high CPU usage and trigger alerts.
-
 ## Observations
 
 See screenshots/ and logs/ for Grafana dashboard outputs, alert emails, and system metrics.
+
+## Prometheus Alerts
+When CPU usage goes above 80%, the alert will fire.  
+Example:
+
+![Prometheus Alerts](screenshots/prometheus_alerts.png)
