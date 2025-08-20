@@ -1,1 +1,18 @@
+[FIRING:1] (HighCPUUsage 192.168.4.31:9100 warning)
+
+7:55 PM (2 hours ago)
+to me
+
+1 alert for
+View in Alertmanager
+[1] Firing
+Labels
+alertname = HighCPUUsage
+instance = 192.168.4.31:9100
+severity = warning
+Annotations
+description = CPU usage is over 80% for the last 30s.
+summary = High CPU usage detected
+
+Sent by Alertmanager
 
